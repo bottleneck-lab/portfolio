@@ -13,7 +13,7 @@ export const LINKS = {
   instagram: "https://instagram.com/PLACEHOLDER",
   facebook: "https://facebook.com/PLACEHOLDER",
   note: "https://note.com/PLACEHOLDER",
-  github: "https://github.com/yuki0246",
+  github: "https://github.com/bottleneck-lab",
   email: "mailto:contact@bottleneck-lab.com",
 } as const;
 
