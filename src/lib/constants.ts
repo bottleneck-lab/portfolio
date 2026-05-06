@@ -12,7 +12,9 @@ export const LINKS = {
   x: "https://x.com/PLACEHOLDER",
   instagram: "https://instagram.com/PLACEHOLDER",
   facebook: "https://facebook.com/PLACEHOLDER",
-  note: "https://note.com/PLACEHOLDER",
+  note: "https://note.com/bottleneck_lab",
+  noteLatestArticle: "https://note.com/bottleneck_lab/n/nef419f52bd7c",
+  noteLatestTitle: "Excelで売上管理してる個人サロンの店長へ。月末3時間が3分になる話",
   github: "https://github.com/bottleneck-lab",
   email: "mailto:contact@bottleneck-lab.com",
 } as const;

@@ -3,6 +3,7 @@ import { Hero } from "@/components/Hero";
 import { Services } from "@/components/Services";
 import { Process } from "@/components/Process";
 import { Works } from "@/components/Works";
+import { LatestArticle } from "@/components/LatestArticle";
 import { About } from "@/components/About";
 import { Pricing } from "@/components/Pricing";
 import { FAQ } from "@/components/FAQ";
@@ -18,6 +19,7 @@ export default function Page() {
         <Services />
         <Process />
         <Works />
+        <LatestArticle />
         <About />
         <Pricing />
         <FAQ />
