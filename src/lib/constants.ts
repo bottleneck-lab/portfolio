@@ -9,7 +9,7 @@ export const BRAND = {
 
 export const LINKS = {
   line: "https://lin.ee/7ohayXA",
-  x: "https://x.com/PLACEHOLDER",
+  x: "https://x.com/bottleneck_lab",
   instagram: "https://instagram.com/PLACEHOLDER",
   facebook: "https://facebook.com/PLACEHOLDER",
   note: "https://note.com/bottleneck_lab",
