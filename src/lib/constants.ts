@@ -10,7 +10,7 @@ export const BRAND = {
 export const LINKS = {
   line: "https://lin.ee/7ohayXA",
   x: "https://x.com/bottleneck_lab",
-  instagram: "https://instagram.com/PLACEHOLDER",
+  instagram: "https://instagram.com/bottleneck.lab",
   facebook: "https://facebook.com/PLACEHOLDER",
   note: "https://note.com/bottleneck_lab",
   noteLatestArticle: "https://note.com/bottleneck_lab/n/nef419f52bd7c",
